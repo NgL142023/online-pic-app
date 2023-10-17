@@ -1,16 +1,4 @@
-# ig_clone_app4
+![image](https://github.com/NgL142023/online-pic-app/assets/121923127/beb63671-e25c-46eb-a508-e42859906dda)
+Giao diện đăng kí tài khoản
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
