@@ -12,4 +12,5 @@ Like ảnh/comment
 
 Tố cáo người dùng
 
-![online pic app](https://github.com/NgL142023/online-pic-app/assets/121923127/86557d0a-6c54-46a2-9ec7-4a978d4f2a3a)
+
+![insta](https://github.com/NgL142023/online-pic-app/assets/121923127/9f5c6f71-60d8-4b88-ad3c-e430a92c27e5)
